@@ -1,5 +1,3 @@
----
-
 # 📊 Liquidity Snapshot Modules — Aave & Radiant
 
 ## Overview
@@ -36,18 +34,7 @@ That’s static, brittle, and guaranteed to miss optimal profits.
 
 **Flowchart — Liquidity to Execution**
 
-```mermaid
-flowchart LR
-    A[Fetch Aave Liquidity] --> D[Save to liquiditySnapshot.json]
-    B[Fetch Radiant Liquidity] --> D
-    D --> E[Feed into ruthlessStrategist.js]
-    E --> F{AI Decision}
-    F -->|Safe Mode| G[Execute Conservative Flashloan]
-    F -->|Aggressive Mode| H[executeReckless()]
-    G --> I[Trade Execution on DEXs]
-    H --> I
-    I --> J[Profit / Log Results]
-```
+<pre> ```mermaid flowchart LR A[Fetch Aave Liquidity] --> D[Save to liquiditySnapshot.json] B[Fetch Radiant Liquidity] --> D D --> E[Feed into ruthlessStrategist.js] E --> F{AI Decision} F -->|Safe Mode| G[Execute Conservative Flashloan] F -->|Aggressive Mode| H[executeReckless()] G --> I[Trade Execution on DEXs] H --> I I --> J[Profit / Log Results] ``` </pre>
 
 ---
 
