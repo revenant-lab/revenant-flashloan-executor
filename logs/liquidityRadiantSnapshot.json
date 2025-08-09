@@ -1,0 +1,56 @@
+[
+  {
+    "symbol": "WBTC",
+    "availableLiquidity": 0.93791479,
+    "totalVariableDebt": 0.52705777,
+    "totalStableDebt": 0
+  },
+  {
+    "symbol": "WETH",
+    "availableLiquidity": 39.28214991483898,
+    "totalVariableDebt": 28.486111053598695,
+    "totalStableDebt": 0
+  },
+  {
+    "symbol": "USDC",
+    "availableLiquidity": 97652.351462,
+    "totalVariableDebt": 173408.85307,
+    "totalStableDebt": 0
+  },
+  {
+    "symbol": "USD₮0",
+    "availableLiquidity": 119702.515978,
+    "totalVariableDebt": 192455.644657,
+    "totalStableDebt": 0
+  },
+  {
+    "symbol": "wstETH",
+    "availableLiquidity": 25.712940233188856,
+    "totalVariableDebt": 11.765394045954626,
+    "totalStableDebt": 0
+  },
+  {
+    "symbol": "weETH",
+    "availableLiquidity": 20.06430253095811,
+    "totalVariableDebt": 11.602851977062478,
+    "totalStableDebt": 0
+  },
+  {
+    "symbol": "ARB",
+    "availableLiquidity": 160050.63892917446,
+    "totalVariableDebt": 68112.43454249702,
+    "totalStableDebt": 0
+  },
+  {
+    "symbol": "rETH",
+    "availableLiquidity": 11.785901354874321,
+    "totalVariableDebt": 7.445578547550856,
+    "totalStableDebt": 0
+  },
+  {
+    "symbol": "LINK",
+    "availableLiquidity": 3514.7019227953438,
+    "totalVariableDebt": 1853.1260342744672,
+    "totalStableDebt": 0
+  }
+]

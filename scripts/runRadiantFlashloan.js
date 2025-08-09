@@ -55,7 +55,7 @@ async function main() {
 
   // 💵 Token and amount to borrow (USDC on Arbitrum)
   const USDC = "0xaf88d065e77c8cc2239327c5edb3a432268e5831";
-  const amount = ethers.parseUnits("10", 6); // 10 USDC (USDC has 6 decimals)
+  const amount = ethers.parseUnits("1000", 6); // 1000 USDC (USDC has 6 decimals)
 
   console.log(`🚀 Starting Radiant flashloan for ${amount} USDC`);
 

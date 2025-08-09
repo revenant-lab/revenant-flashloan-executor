@@ -1,0 +1,114 @@
+{
+  "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
+    "decimals": 18
+  },
+  "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4": {
+    "symbol": "LINK",
+    "name": "ChainLink Token",
+    "decimals": 18
+  },
+  "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": {
+    "symbol": "USDC",
+    "name": "USD Coin (Arb1)",
+    "decimals": 6
+  },
+  "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6
+  },
+  "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f": {
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8
+  },
+  "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": 18
+  },
+  "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": {
+    "symbol": "USD₮0",
+    "name": "USD₮0",
+    "decimals": 6
+  },
+  "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196": {
+    "symbol": "AAVE",
+    "name": "Aave Token",
+    "decimals": 18
+  },
+  "0xD22a58f79e9481D1a88e00c343885A588b34b68B": {
+    "symbol": "EURS",
+    "name": "STASIS EURS Token",
+    "decimals": 2
+  },
+  "0x5979D7b546E38E414F7E9822514be443A4800529": {
+    "symbol": "wstETH",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "decimals": 18
+  },
+  "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d": {
+    "symbol": "MAI",
+    "name": "Mai Stablecoin",
+    "decimals": 18
+  },
+  "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8": {
+    "symbol": "rETH",
+    "name": "Rocket Pool ETH",
+    "decimals": 18
+  },
+  "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b": {
+    "symbol": "LUSD",
+    "name": "LUSD Stablecoin",
+    "decimals": 18
+  },
+  "0xaf88d065e77c8cC2239327C5EDb3A432268e5831": {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6
+  },
+  "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F": {
+    "symbol": "FRAX",
+    "name": "Frax",
+    "decimals": 18
+  },
+  "0x912CE59144191C1204E64559FE8253a0e49E6548": {
+    "symbol": "ARB",
+    "name": "Arbitrum",
+    "decimals": 18
+  },
+  "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe": {
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "decimals": 18
+  },
+  "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33": {
+    "symbol": "GHO",
+    "name": "Gho Token",
+    "decimals": 18
+  },
+  "0x2416092f143378750bb29b79eD961ab195CcEea5": {
+    "symbol": "ezETH",
+    "name": "Renzo Restaked ETH",
+    "decimals": 18
+  },
+  "0x4186BFC76E2E237523CBC30FD220FE055156b41F": {
+    "symbol": "rsETH",
+    "name": "KelpDao Restaked ETH",
+    "decimals": 18
+  },
+  "Aave": {
+    "defaultDebtToken": "USDC",
+    "defaultCollateralToken": "WETH",
+    "liquidationBonus": 0.05,
+    "baseGasEstimateUSD": 300
+  },
+  "Radiant": {
+    "defaultDebtToken": "USDT",
+    "defaultCollateralToken": "WETH",
+    "liquidationBonus": 0.10,
+    "baseGasEstimateUSD": 350
+  }
+}

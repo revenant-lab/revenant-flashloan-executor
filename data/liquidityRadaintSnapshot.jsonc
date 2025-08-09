@@ -1,0 +1,57 @@
+[
+  {
+    "symbol": "WBTC", // Wrapped Bitcoin
+    "availableLiquidity": 0.93791479, // WBTC available for lending
+    "totalScaledVariableDebt": 0.52705777, // Total borrowed WBTC on variable rate
+    "totalPrincipalStableDebt": 0 // Total borrowed WBTC on stable rate
+  },
+  {
+    "symbol": "WETH", // Wrapped Ether
+    "availableLiquidity": 39.28214991483898,
+    "totalScaledVariableDebt": 28.486111053598695,
+    "totalPrincipalStableDebt": 0
+  },
+  {
+    "symbol": "USDC", // USD Coin (stablecoin)
+    "availableLiquidity": 97652.351462,
+    "totalScaledVariableDebt": 173408.85307,
+    "totalPrincipalStableDebt": 0
+  },
+  {
+    "symbol": "USD₮0", // Tether USD (symbol in pool may vary)
+    "availableLiquidity": 119702.515978,
+    "totalScaledVariableDebt": 192455.644657,
+    "totalPrincipalStableDebt": 0
+  },
+  {
+    "symbol": "wstETH", // Wrapped staked Ether (Lido)
+    "availableLiquidity": 25.712940233188856,
+    "totalScaledVariableDebt": 11.765394045954626,
+    "totalPrincipalStableDebt": 0
+  },
+  {
+    "symbol": "weETH", // Wrapped eETH (EigenLayer)
+    "availableLiquidity": 20.06430253095811,
+    "totalScaledVariableDebt": 11.602851977062478,
+    "totalPrincipalStableDebt": 0
+  },
+  {
+    "symbol": "ARB", // Arbitrum token
+    "availableLiquidity": 160050.63892917446,
+    "totalScaledVariableDebt": 68112.43454249702,
+    "totalPrincipalStableDebt": 0
+  },
+  {
+    "symbol": "rETH", // Rocket Pool Ether
+    "availableLiquidity": 11.785901354874321,
+    "totalScaledVariableDebt": 7.445578547550856,
+    "totalPrincipalStableDebt": 0
+  },
+  {
+    "symbol": "LINK", // Chainlink token
+    "availableLiquidity": 3514.7019227953438,
+    "totalScaledVariableDebt": 1853.1260342744672,
+    "totalPrincipalStableDebt": 0
+  }
+]
+
